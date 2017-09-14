@@ -1,0 +1,35 @@
+/*!
+ * Mastertech - 3 Col Portfolio
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.pagination {
+    margin-bottom: 30px;
+}
+
+
+/*Ajusta o layout de acordo com o tamanho da tela*/
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+
+/* Inicio do meu CSS */
+
+
+/* Fim do meu CSS */
